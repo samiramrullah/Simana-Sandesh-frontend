@@ -41,7 +41,7 @@ export default function Footer({ categories }: { categories: Category[] }) {
         </div>
         <div className="footer-bottom">
           <span>© {new Date().getFullYear()} Simana Sandesh. All rights reserved.</span>
-          <span>Registered with the Registrar of Newspapers for India</span>
+          <span>Registered with the Registrar of Newspapers for Nepal</span>
         </div>
       </div>
     </footer>

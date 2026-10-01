@@ -13,7 +13,7 @@ export default function ContactPage() {
       <h2>Advertising</h2>
       <p>Email: <a href="mailto:ads@simanasandesh.com">ads@simanasandesh.com</a></p>
       <h2>Office</h2>
-      <p>Simana Sandesh, Main Road, City — 000000, India</p>
+      <p>Birgunj, Adarshnagar — 44300, Nepal</p>
     </StaticPage>
   );
 }
